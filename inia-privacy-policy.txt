@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Seguridad - INIA AGRO SMART</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Política de Seguridad</h1>
+    <p>En INIA AGRO SMART, nos tomamos muy en serio la seguridad de la información. Nuestra política de seguridad está diseñada para proteger la confidencialidad, integridad y disponibilidad de los datos que manejamos.</p>
+    <h2>Recopilación de Datos</h2>
+    <p>Recopilamos datos de los usuarios únicamente para mejorar la calidad del servicio y ofrecer respuestas precisas y útiles. Los datos recopilados no se comparten con terceros.</p>
+    <h2>Protección de Datos</h2>
+    <p>Implementamos medidas de seguridad técnicas y organizativas para proteger los datos contra el acceso no autorizado, pérdida o destrucción.</p>
+    <h2>Acceso a la Información</h2>
+    <p>El acceso a la información está restringido a personal autorizado que necesita dicha información para realizar sus funciones.</p>
+    <h2>Cambios en la Política de Seguridad</h2>
+    <p>Nos reservamos el derecho de modificar esta política de seguridad en cualquier momento. Notificaremos a los usuarios sobre cualquier cambio significativo a través de nuestro sitio web.</p>
+    <h2>Contacto</h2>
+    <p>Si tienes alguna pregunta o inquietud sobre nuestra política de seguridad, por favor contacta con nosotros a través de <a href="mailto:contacto@inia.gob.pe">contacto@inia.gob.pe</a>.</p>
+</body>
+</html>
