@@ -20,7 +20,7 @@ Proveer a los usuarios de **INIA AGRO SMART** una comprensión clara de cómo pr
 
 La política de seguridad está disponible públicamente y puede ser accedida a través del siguiente enlace:
 
-[Política de Seguridad de INIA AGRO SMART](https://yourusername.github.io/inia-security-policy/)
+[Política de Seguridad de INIA AGRO SMART](https://github.com/cryptocurrencyperu/inia-security-policy)
 
 ## 🛡️ Nuestras Promesas
 
@@ -32,7 +32,7 @@ La política de seguridad está disponible públicamente y puede ser accedida a 
 
 Si tienes alguna pregunta o inquietud sobre nuestra política de seguridad, no dudes en contactarnos:
 
-- **Correo Electrónico**: [contacto@inia.gob.pe](mailto:contacto@inia.gob.pe)
+- **Correo Electrónico**: [dleon@inia.gob.pe](mailto:dleon@inia.gob.pe)
 
 ---
 
